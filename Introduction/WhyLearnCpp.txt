@@ -1,0 +1,128 @@
+==================================================
+　なぜC++を学ぶのか？（Why Learn C++?）
+==================================================
+
+
+■ 0. はじめに
+--------------------------------------------------
+・「どのプログラミング言語を学ぶべきか？」に簡単な答えはない
+・経験豊富なプロは複数の言語を知っていて、状況に応じて使い分ける
+・このセクションのテーマ＝「なぜC++を学ぶのか」
+
+→ ポイントは4つ：①人気（Popular）②関連性（Relevant）
+　　　　　　　　　③強力さ（Powerful）④キャリア（Career）
+
+
+■ 1. 人気がある（Popular）
+--------------------------------------------------
+・今日書かれているソフトウェアの多く（大半）は今もC++で書かれている
+　― これは長年ずっと変わらない傾向
+・複数の「言語人気ランキング」が存在
+　― それぞれ異なる基準（criteria）で順位付けしている
+・GitHub には膨大な数のアクティブなC++リポジトリがある
+・Stack Overflow でもC++は非常に活発
+
+
+▼ 各人気ランキングでのC++の位置（2025〜2026年時点）
+　　※アクセス時期や各サイトの基準により結果は変わる
+
+　● TIOBE Index
+　　・C++は現在 4位（7.92%）
+　　・2001年以降の最高位：2位（2025年9月）
+　　・2001年以降の最低位：5位（2008年2月）
+　　・Language of the Year：2003年・2022年
+　　・新しい言語が次々登場する中、長年高順位を維持し続けるのは見事
+
+　● PYPL Popularity Index
+　　・C/C++は現在 2位（シェア 11.5%、1年トレンド +4.6%）
+　　・※チュートリアルの検索回数に基づくインデックス
+
+　● IEEE Spectrum（Top Programming Languages 2025）
+　　・重み付けを切り替えて見られる（Spectrum / Trending / Jobs）
+　　・Spectrum：C++ は 3位
+　　・Trending：C++ は 3位
+　　・Jobs：C++ は 7位
+
+　● RedMonk Rankings
+　　・GitHubのプロジェクト数 と Stack Overflowのタグ数で評価
+　　・C++ は 7位（同率）
+
+　● ZDNet Rankings
+　　・複数の人気指標を組み合わせた「アンサンブル（総合）」ランキング
+　　・C++ は 4位
+　　・データの分析記事も読み応えがある
+
+
+■ 2. 関連性がある（Relevant）
+--------------------------------------------------
+・全体または一部がC++で書かれた主要ソフトウェアが多数ある
+
+▼ 製品・ソフトウェアの例
+　・OS：Windows、Linux、macOS（Mac OS X）
+　・Adobe製品：Photoshop、Illustrator など
+　・データベースエンジン：MySQL、MongoDB など
+
+▼ C++を使う主要テック企業の例
+　・Amazon、Apple、Microsoft、PayPal、Google、
+　　Facebook、Oracle、HP、IBM など
+　　― 製品開発や社内の研究開発（R&D）で使用
+
+▼ C++が動かしている「エンジン」の例（かっこいい用途）
+　・VR（バーチャルリアリティ）
+　・ゲームエンジン（Unreal Engine）
+　・機械学習（Machine Learning）
+　・ネットワーク＆通信（Networking & Telecom）など
+
+
+■ 3. 強力である（Powerful）
+--------------------------------------------------
+・人気・関連性の根本的な理由は「とにかく強力」だから
+・C++は非常に高速（super fast）
+・汎用（general purpose）言語で、
+　手続き型（procedural）とオブジェクト指向（OOP）の両方をサポート
+　― 非常に柔軟（flexible）
+・スケールしやすく（scalable）、移植性もある（portable）
+・他の言語ではできないことが多くできる
+　― だからこそ、ほぼすべての主要言語がC++コードと
+　　連携（interface）する手段を持っている
+
+▼ 複雑さ（complexity）について
+　・強力さと柔軟さの代償として複雑さがある
+　・C++は最も複雑な言語のひとつなのは間違いない
+　・ただし「基礎を学ぶこと」はかなり簡単
+　　― それこそがこのコースの目的
+
+
+■ 4. 良いキャリアの機会（Good career opportunities）
+--------------------------------------------------
+・C++プログラマーは高い給与を得る、というのは本当
+　― 有名なフレーズ：「C++ ＝ Salary++」
+・C++のキャリアの機会は確かに存在する
+・履歴書にC++スキルがあると、開発者の間で
+　「名誉のバッジ（badge of honor）」のように見られ、
+　面接につながることも多い
+　― C++プログラマーは他と差がつくスキルセットを持つから
+
+
+■ 5. 最後に
+--------------------------------------------------
+・多くの言語がC++の影響を受けている
+　― 「ルート言語」であるC++の土台があれば、
+　　新しい言語の習得もしばしば容易になる
+・C++を学ぶのは良い選択
+・次の動画では、C++の進化とC++標準（C++ standard）を簡単に見ていく
+
+
+==================================================
+　参考サイト（Course Resources / 人気ランキング）
+==================================================
+・TIOBE Index
+　https://www.tiobe.com/tiobe-index/
+・PYPL PopularitY of Programming Language
+　https://pypl.github.io/PYPL.html
+・IEEE Spectrum（Top Programming Languages 2025）
+　https://spectrum.ieee.org/top-programming-languages-2025
+・RedMonk Language Rankings
+　https://redmonk.com/sogrady/2026/04/14/language-rankings-1-26/
+・ZDNet（The most popular programming languages）
+　https://www.zdnet.com/article/the-most-popular-programming-languages-in-2024-and-what-that-even-means/
